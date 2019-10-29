@@ -1,0 +1,15 @@
+Welcome to the MathBot!
+
+The program was created as a learning tool for kindergarteners. You will be given 5 problems that will have 2 numbers 
+randomly generated. You must find the sum of these 2 numbers and Jaiden, the MathBot, will tell you if you are right or 
+wrong. 
+
+If you get the answer wrong, press the clear button and try again.
+If you get the answer right, there is no need to press the clear button, just press the next button to go to the next problem. 
+
+I hope you ennjoy playing with the MathBot, and I hope you learn a lot from this experience. 
+
+
+
+- Marshall Smith 
+April 29, 2018
